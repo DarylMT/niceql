@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "niceql/version"
+# require "niceql/version"
 require "securerandom"
 require "forwardable"
 
